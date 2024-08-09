@@ -13,5 +13,4 @@ I'm currently honing my skills in frontend development, exploring the latest fra
 - 📸 I'm passionate about photography and enjoy capturing moments and landscapes in my spare time.
 - 🎨 I love graphic design and create custom artwork for fun.
 
-## 📬 Connect With Me
-- **Email:** [arynxtech@gmail.com](mailto:arynxtech@gmail.com)
+

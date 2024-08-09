@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm **Aryan**
 
-<!--
-**arynxtech/arynxtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently a second-year BSc Computer Science student with a passion for Full-Stack Development. My journey began with a love for creating beautiful and functional websites, and I’m excited to dive deeper into both frontend and backend technologies.
 
-Here are some ideas to get you started:
+## 🛠 Skills and Technologies
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Python (basic), Java (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Currently Focused On
+I'm currently honing my skills in frontend development, exploring the latest frameworks and libraries, and working on building dynamic and responsive web applications.
+
+## 🌟 Fun Facts
+- 📸 I'm passionate about photography and enjoy capturing moments and landscapes in my spare time.
+- 🎨 I love graphic design and create custom artwork for fun.
+
+## 📬 Connect With Me
+- **Email:** [arynxtech@gmail.com](mailto:arynxtech@gmail.com)

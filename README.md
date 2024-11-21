@@ -10,7 +10,6 @@
 ![Java](https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png) Java,  
 ![C++](https://img.icons8.com/color/20/000000/c-plus-plus-logo.png) C++,  
 ![C#](https://img.icons8.com/color/20/000000/c-sharp-logo.png) C#,  
-![.NET](https://img.icons8.com/color/20/000000/dot-net.png) .NET,  
 ![Android Studio](https://img.icons8.com/color/20/000000/android-studio--v2.png) Android Studio,  
 ![VS Code](https://img.icons8.com/color/20/000000/visual-studio-code-2019.png) Visual Studio Code,  
 ![Figma](https://img.icons8.com/color/20/000000/figma.png) Figma,  
